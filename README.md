@@ -1,2 +1,1 @@
-# react-chai-aur-code
-this is aur first part
+i ma learning react now how commict work to commict second time 
